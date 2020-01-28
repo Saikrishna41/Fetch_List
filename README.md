@@ -2,7 +2,7 @@
 
 Fetch App is a data listing app that fetches the remote  data provided by jsonbin.com and displays in a simple recyclerview.
 
-The data  are of categorised based on their unique list ID. 
+The data  are categorised based on their unique list ID. 
 
 Architecture and Libraries used: 
 
