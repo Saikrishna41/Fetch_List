@@ -1,4 +1,4 @@
-# FetchList Apo
+# FetchList App
 
 Fetch App is a data listing app that fetches the remote  data provided by jsonbin.com and displays in a simple recyclerview.
 
