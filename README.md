@@ -19,8 +19,7 @@ Screenshots:
 
 List Screen           |  Search View Screen       |  Search detail Screen        
 :-------------------------:|:-------------------------: |:-------------------------: 
-<img src = "https://raw.githubusercontent.com/Saikrishna41/MVVM/master/images//Screenshot_1580207573.png" width="250" height="450"/>  |  !<img src = "https://raw.githubusercontent.com/Saikrishna41/MVVM/master/images/Screenshot_1580207599.png" width="250" height="450"/>
- |  !<img src = "https://raw.githubusercontent.com/Saikrishna41/MVVM/master/images/Screenshot_1580207580.png" width="250" height="450"/>
+<img src = "https://raw.githubusercontent.com/Saikrishna41/MVVM/master/images//Screenshot_1580207573.png" width="250" height="450"/>  |  !<img src = "https://raw.githubusercontent.com/Saikrishna41/MVVM/master/images/Screenshot_1580207599.png" width="250" height="450"/>|!<img src = "https://raw.githubusercontent.com/Saikrishna41/MVVM/master/images/Screenshot_1580207580.png" width="250" height="450"/>
 
 
 
