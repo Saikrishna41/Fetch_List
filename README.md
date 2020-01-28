@@ -11,7 +11,7 @@ Architecture and Libraries used:
 2. UI components (Google material design, RecyclerView ,SearchView, espresso for UI testing)
 Code base:
 
-https://github.com/Saikrishna41/RecipesApp/tree/master/app/src/main/java/com/devsai/recipeapp
+https://github.com/Saikrishna41/Fetch_List/tree/master/app/src/main/java/com/devsai/myapplication
 
 
 
@@ -19,7 +19,7 @@ Screenshots:
 
 List Screen           |  Search Screen        
 :-------------------------:|:-------------------------: 
-<img src = "https://raw.githubusercontent.com/Saikrishna41/MVVM/master/images//Screenshot_1580207573.png" width="250" height="450"/>  |  !<img src = "https://raw.githubusercontent.com/Saikrishna41/MVVM/master/images/Screenshot_1580207580" width="250" height="450"/>
+<img src = "https://raw.githubusercontent.com/Saikrishna41/MVVM/master/images//Screenshot_1580207573.png" width="250" height="450"/>  |  !<img src = "https://raw.githubusercontent.com/Saikrishna41/MVVM/master/images/Screenshot_1580207580.png" width="250" height="450"/>
 
 
 
